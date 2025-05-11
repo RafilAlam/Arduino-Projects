@@ -3,5 +3,5 @@
 
 ## 🛠️ Features
 **Language**: Arduino's C++
-- Programs I made while learning mechatronics on my own
+- Programs I made while learning and experimenting with mechatronics
 - Personal Projects
