@@ -1,0 +1,17 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Segment	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+display	KEYWORD2
+displayString	KEYWORD2
+clear	KEYWORD2
+example	KEYWORD2
